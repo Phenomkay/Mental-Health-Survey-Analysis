@@ -22,6 +22,32 @@ Mental health is a critical aspect of overall well-being, yet it is often overlo
 
 ---
 
+### Data Overview
+
+The dataset consists of **300,000 rows and 17 columns**. The columns capture a variety of attributes related to mental health, demographics, and lifestyle factors that may influence mental well-being. Below is a brief description of each column:
+
+- **Timestamp**: Time when the survey was completed.
+- **Gender**: Gender of the respondent.
+- **Country**: Country where the respondent resides.
+- **Occupation**: Respondent’s occupation.
+- **Self_employed**: Indicates if the respondent is self-employed.
+- **Family_history**: Whether there is a family history of mental health issues.
+- **Treatment**: If the respondent has sought treatment for mental health issues.
+- **Days_Indoors**: Number of days spent indoors, potentially reflecting isolation or remote work.
+- **Growing_Stress**: Indicator of increased stress levels over time.
+- **Changes_Habits**: Changes in habits that could affect mental health.
+- **Mental_Health_History**: Respondent’s personal history of mental health issues.
+- **Mood_Swings**: Frequency of mood swings experienced by the respondent.
+- **Coping_Struggles**: Indicator of struggles with coping mechanisms.
+- **Work_Interest**: Level of interest in work, which could correlate with mental well-being.
+- **Social_Weakness**: Difficulty in social situations.
+- **Mental_health_interview**: Willingness to discuss mental health in an interview setting.
+- **Care_options**: Awareness of mental health care options available.
+
+This diverse set of variables allows for an in-depth analysis of different aspects of mental health, helping to uncover patterns, correlations, and potential areas for intervention.
+
+--- 
+
 ### Data Visualization and Interpretations
 
 #### Distribution of Days Indoors
