@@ -15,7 +15,7 @@ Mental health is a critical aspect of overall well-being, yet it is often overlo
 **Data Visualization and Interpretations**  
 - **Distribution of Days Indoors:**
 
-- ![Distribution of Days Indoors](distribution of days indoors.png)
+- ![Distribution of Days Indoors](https://github.com/Phenomkay/Mental-Health-Survey-Analysis/blob/b711e463078d7fe9f14a4cf7fb3464e845042042/distribution%20of%20days%20indoors.png)
 
   A bimodal distribution highlights two common patterns—frequent outings and extended indoor periods—which may relate to varying mental health impacts from social isolation.
   
