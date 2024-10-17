@@ -24,7 +24,8 @@ Mental health is a critical aspect of overall well-being, yet it is often overlo
 
 ### Data Overview
 
-The dataset consists of **300,000 rows and 17 columns**. The columns capture a variety of attributes related to mental health, demographics, and lifestyle factors that may influence mental well-being. Below is a brief description of each column:
+The dataset consists of **300,000 rows and 17 columns**. The columns capture a variety of attributes related to mental health, demographics, and lifestyle factors that may influence mental well-being. Data source can be found here  - https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset
+Below is a brief description of each column:
 
 - **Timestamp**: Time when the survey was completed.
 - **Gender**: Gender of the respondent.
